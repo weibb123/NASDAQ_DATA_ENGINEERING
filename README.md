@@ -17,7 +17,11 @@ pip install streamlit pandas plotly snowflake-connector-python yfinance
 4. Utlized Streamlit connect to snowflake with snowflake credentials and load the data for fancy charts.
 5. Deployed to Streamlit Community Cloud and share the app for free
 
+## Extract data from yahoofinance
+The script to extract data -> dataframe -> csv is in **stock.ipynb**
 
+
+## Upload data to SnowFlake
 ![image](https://github.com/user-attachments/assets/5a3847e8-b7aa-4d16-971a-a64dd695eba2)
 ![image](https://github.com/user-attachments/assets/33f7040d-01dd-4f17-991c-bdbdfae841a5)
 ![image](https://github.com/user-attachments/assets/e075facc-7644-4f7f-9f6b-1cffb4937134)
