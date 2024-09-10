@@ -4,10 +4,6 @@ import plotly.graph_objects as go
 import plotly.express as px
 from snowflake.connector import connect
 from datetime import datetime, timedelta
-from dotenv import load_dotenv
-
-# Load environment variables
-load_dotenv()
 
 # Initialize connection.
 conn = st.connection("snowflake")
