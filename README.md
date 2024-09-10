@@ -30,7 +30,7 @@ The script to extract data -> dataframe -> csv is in **stock.ipynb**
 
 
 
-You can find this information once you install snowflake in VSCode Extension
+You can find this information once you install snowflake in VSCode Extension and use for connection
 
 ![image](https://github.com/user-attachments/assets/bec3e736-a3b6-4552-ad22-a1ca6835a15c)
 
