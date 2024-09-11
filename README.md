@@ -2,7 +2,7 @@
 ETL pipeline on one year of NASDAQ stock data with SNOWFLAKE
 FREE trial of Snowflake account.
 
-Procedures to follow
+## Procedures to follow
 1. create python virtual environment
 2. 
 
